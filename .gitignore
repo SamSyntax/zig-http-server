@@ -8,9 +8,6 @@ main
 bin/
 !bin/.gitkeep
 
-test.sh
-your_program.sh
-
 
 # Ignore any .o or .h files generated during build
 *.o
